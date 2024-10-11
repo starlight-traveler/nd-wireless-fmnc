@@ -1,0 +1,9 @@
+[submodule "nd-wireless-fmnc-client"]
+	path = nd-wireless-fmnc-client
+	url = https://github.com/starlight-traveler/nd-wireless-fmnc-client.git
+[submodule "nd-wireless-fmnc-router"]
+	path = nd-wireless-fmnc-router
+	url = https://github.com/starlight-traveler/nd-wireless-fmnc-router.git
+[submodule "nd-wireless-fmnc-server"]
+	path = nd-wireless-fmnc-server
+	url = https://github.com/starlight-traveler/nd-wireless-fmnc-server.git
