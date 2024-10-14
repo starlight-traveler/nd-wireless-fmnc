@@ -41,18 +41,27 @@ project and the inital Scalebox code of which these repositories model:
 > start congestion window growth (CWND).  
 >
 > *CWND = 1 packet*
-> 	Send 1460 to client
->   Ack from client
+>
+> Send 1460 to client
+>
+> Ack from client
 >
 > *CWND = 2 packets*
+>
 >	Send 1460 to client
+>
 >	Send 1460 to client
->		Ack from client for 2 data packets
+>
+>	Ack from client for 2 data packets
 >
 > *CWND = 4 packets*
+>
 >	Send 1460 to client
+>
 >	Send 1460 to client
+>
 >	Send 1460 to client
+>
 >	Send 1460 to client 
 
 -----
