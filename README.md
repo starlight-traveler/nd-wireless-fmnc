@@ -167,7 +167,7 @@ default via 10.7.0.1 dev wlan0 proto dhcp src 10.7.151.233 metric 600
 ```
 
 If you run traceroute between the two RPI 5's, you should see a ping to the router
-first before the forwarding occurs to the apprporiate destination
+first before the forwarding occurs to the appropriate destination
 
 ```bash
 traceroute to 192.168.2.2 (192.168.2.2), 30 hops max, 60 byte packets
