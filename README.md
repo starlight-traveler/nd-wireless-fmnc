@@ -62,7 +62,7 @@ The hardware setup for the FMNC test system is characterized as follows:
 1) Ubuntu 24.02 box acting as a router
 2) Raspberry Pi 5 box acting as a client
 3) Rasbeprry Pi 5 box acting as a server
-4) "Dumb" networking switch connected on localcast.
+4) "Dumb" networking switch connected on localcast
 
 ----
 ### Ubuntu 24.02 box acting as a router
