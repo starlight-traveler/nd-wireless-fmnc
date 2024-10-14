@@ -231,7 +231,7 @@ As of writing this, the latter is not implemented, however the program does send
 
 ### Todo
 
-- Finish TCP payload slciing
+- Finish TCP payload slicing
 - Heurestic for determining when SSL handshake is completed/can we slice SSL handshake
 - Configuration file formatting and implementation (not all fields are implemented)
 - Log files/data store similar to .pcap of incoming and outgoing files for analysis
