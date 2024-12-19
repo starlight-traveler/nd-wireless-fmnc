@@ -2,11 +2,12 @@ format: jb-book
 root: README
 
 parts:
-  - caption: Starting Out
+  - caption: FMNC
     numbered: False
     chapters:
       - file: notebooks/setup.ipynb
       - file: notebooks/router.ipynb
+      - file: notebooks/routertwo.ipynb
       - file: notebooks/client.ipynb
       - file: notebooks/server.ipynb
   - caption: Additional Resources
