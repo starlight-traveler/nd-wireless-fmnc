@@ -1,0 +1,29 @@
+format: jb-book
+root: README
+
+parts:
+  - caption: Starting Out
+    numbered: False
+    chapters:
+      - file: notebooks/building-on-windows-linux.ipynb
+      - file: notebooks/building-on-mac.ipynb
+      - file: notebooks/contribution-guidelines.ipynb
+      - file: notebooks/code-architecture.ipynb
+  - caption: Learning
+    chapters:
+      - file: notebooks/learning-c++.ipynb
+      - file: notebooks/learning-cv.ipynb
+  - caption: Additional Resources
+    chapters:
+      - url: https://starlight-traveler.github.io/nd-aimm-main-computer/doxygen/html/index.html
+        title: NDAIMM Main Computer Doxygen
+      - url: https://learngitbranching.js.org/?locale=en_US
+        title: Learning Git
+      - url: https://www.state-machine.com/oop
+        title: C++ Object Orientation Introduction
+      - url: https://github.com/ultralytics/ultralytics
+        title: YoloVX Introduction  
+      - url: https://flatbuffers.dev
+        title: Understanding Google Flatbuffers
+      - url: https://docs.opencv.org/4.x/d1/dfb/intro.html
+        title: OpenCV C++ API Documentation  
