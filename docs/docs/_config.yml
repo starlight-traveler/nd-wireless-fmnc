@@ -1,11 +1,11 @@
 # Book settings
 title:
-author: The Notre Dame Artifical Intelligence and Machine Learning & Modeling Team
+author: The Notre Dame Wirless Institute
 logo: docs/images/logo.png
 only_build_toc_files: false
 
 repository:
-  url: https://github.com/starlight-traveler/nd-aimm-main-computer/
+  url: https://github.com/starlight-traveler/nd-wireless-fmnc/
   branch: main
 
 #######################################################################################
@@ -16,7 +16,7 @@ html:
   use_edit_page_button: true
   use_repository_button: true
   use_issues_button: true
-  baseurl: https://starlight-traveler.github.io/nd-aimm-main-computer/
+  baseurl: https://github.com/starlight-traveler/nd-wireless-fmnc/
   extra_footer: |
     <div>
         <b>All content (unless otherwise specified) is subject to the <a href="https://www.mozilla.org/en-US/MPL">MIT License.</a></b>
