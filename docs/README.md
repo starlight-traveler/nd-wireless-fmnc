@@ -1,14 +1,13 @@
-# **NDAIMM Main Computer Documentation**
+# **ND-Wireless Institute**
 
-***Notre Dame Artifical Intelligence & Machine Learning and Modeling Team***
+***FMNC Manager // Client - Server - Router***
 
-This is the home of all the documentation for the Main LPV computer. Please review the below and go to ***Getting Started*** in order to access the programming suite.
+Please review the below and go to ***Getting Started*** in order to access the programming suite and applicable information for setup..
 
-Inspired by literate programming, maintained by the Notre Dame Artifical Intelligence team, and built with a focus on trunk-based development and industry best practices, this NDAIMM project contains comprehensive documentation, automated testing, CI/CD, and secure coding practices. Some key things to review project management wise:
 
 - [**README**](README), [**CODE_OF_CONDUCT**](docs/CODE_OF_CONDUCT.md), [**CONTRIBUTING**](docs/CONTRIBUTING.md)
 
-  > README files are important and often neglected. The files should inform anyone about the first steps to use, learn and contribute to your project.
+  > Current file.
   >
 - [**CITATION.cff**](CITATION.cff)
 
@@ -16,7 +15,7 @@ Inspired by literate programming, maintained by the Notre Dame Artifical Intelli
   >
 - [**LICENSE**](LICENSE)
 
-  > The LICENSE is a pivotal document that delineates the permissions and restrictions for utilizing the contents of this repository. In the absence of a license, no rights are granted to use, modify, or distribute the code. This repository is licensed under the** **[**MIT License**](), ensuring both simplicity and permissiveness in its usage.
+  > The LICENSE is a pivotal document that delineates the permissions and restrictions for utilizing the contents of this repository. In the absence of a license, no rights are granted to use, modify, or distribute the code.
   >
 - **docs/**
 
@@ -30,16 +29,3 @@ Inspired by literate programming, maintained by the Notre Dame Artifical Intelli
 
   > All applications of programming done in the CXX standard will occur in the src/ directory and the exectuable will build from there. Under no circumstance should code be elevated out of the **src/** Usage
   >
-
-```{caution}
-Your pull request to merge code will be denied if anything is elevated outside of the directory, you must discuss with the project leads beforehand.
-```
-
-
-### Code of Conduct
-
-The Notre Dame Artifical Intelligence Team maintains a [Code of Conduct](docs/CODE_OF_CONDUCT.md) to ensure an inclusive and respectful environment for everyone. Please adhere to it in all interactions within our community.
-
-## License
-
-The Notre Dame Artifical Intelligence Team's code is licensed under the** ****MIT License**. This project is fully open-source and every effort should be put forward for the FOSS community.
