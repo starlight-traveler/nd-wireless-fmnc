@@ -5,14 +5,10 @@ parts:
   - caption: Starting Out
     numbered: False
     chapters:
-      - file: notebooks/building-on-windows-linux.ipynb
-      - file: notebooks/building-on-mac.ipynb
-      - file: notebooks/contribution-guidelines.ipynb
-      - file: notebooks/code-architecture.ipynb
-  - caption: Learning
-    chapters:
-      - file: notebooks/learning-c++.ipynb
-      - file: notebooks/learning-cv.ipynb
+      - file: notebooks/setup.ipynb
+      - file: notebooks/router.ipynb
+      - file: notebooks/client.ipynb
+      - file: notebooks/server.ipynb
   - caption: Additional Resources
     chapters:
       - url: https://github.com/starlight-traveler/nd-wireless-fmnc/doxygen/html/index.html
